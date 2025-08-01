@@ -66,55 +66,6 @@ const qamar = {
 </div>
 
 ---
-<h2 align="center">Featured Projects 🎯</h2>
-
-<div align="center">
-
-<!-- Project Cards with Better Alignment -->
-<table width="100%" cellpadding="10" cellspacing="0" border="0">
-<tr>
-<td width="50%" valign="top" align="center">
-
-### Gen-Security 🛡️
-**AI-Powered Surveillance System**
-
-<img width="80" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" />
-
-🔹 Real-time threat detection  
-🔹 95%+ accuracy rate  
-🔹 Computer vision integration  
-
-**Tech Stack:** `Python` `OpenCV` `YOLOv8` `Roboflow`
-
-<a href="https://github.com/mdqamarhussain/Gen-Security">
-  <img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### Frontend Collection 🎨
-**Modern UI Recreations**
-
-<img width="80" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" />
-
-🔹 Netflix, Amazon, X, Spotify clones  
-🔹 Pixel-perfect responsive design  
-🔹 Modern CSS animations  
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Tailwind`
-
-<a href="https://github.com/mdqamarhussain?tab=repositories">
-  <img src="https://img.shields.io/badge/View_Collection-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <h2 align="center">GitHub Insights 📊</h2>
 
