@@ -74,6 +74,15 @@ const qamar = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdqamarhussain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub%20Stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdqamarhussain&layout=compact&theme=tokyonight&hide_border=true&card_width=445" />
 
+<br/><br/>
+
+<!-- Snake eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdqamarhussain/mdqamarhussain/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdqamarhussain/mdqamarhussain/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mdqamarhussain/mdqamarhussain/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
