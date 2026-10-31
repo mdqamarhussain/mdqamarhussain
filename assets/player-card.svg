@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 330" width="880" height="330" role="img" aria-label="Character sheet. Md Qamar Hussain, full stack developer, class of 2026, Andal, West Bengal. Skills: frontend, backend, AI and LLM, UI sense. Motto: Never Give Up.">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4266dd"/><stop offset="1" stop-color="#00c6ff"/></linearGradient>
+<linearGradient id="b0" x1="0" x2="1"><stop offset="0" stop-color="#4266dd"/><stop offset="1" stop-color="#00c6ff"/></linearGradient>
+<linearGradient id="b1" x1="0" x2="1"><stop offset="0" stop-color="#7ee787"/><stop offset="1" stop-color="#00c6ff"/></linearGradient>
+<linearGradient id="b2" x1="0" x2="1"><stop offset="0" stop-color="#d2a8ff"/><stop offset="1" stop-color="#ff7bd5"/></linearGradient>
+<linearGradient id="b3" x1="0" x2="1"><stop offset="0" stop-color="#ffa657"/><stop offset="1" stop-color="#ff6b6b"/></linearGradient>
+</defs>
+<style>.m{font-family:'Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace} .s{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<rect x="2" y="2" width="876" height="326" rx="16" fill="#0d1117" stroke="url(#g)" stroke-width="2"/>
+<rect x="24" y="24" width="232" height="238" rx="12" fill="#161b22" stroke="#30363d"/>
+<polygon points="140.0,54.0 190.2,83.0 190.2,141.0 140.0,170.0 89.8,141.0 89.8,83.0" fill="#4266dd" fill-opacity=".14" stroke="url(#g)" stroke-width="3"><animate attributeName="stroke-opacity" values="1;.35;1" dur="2.6s" repeatCount="indefinite"/></polygon>
+<text x="140" y="126" text-anchor="middle" fill="#e6edf3" class="m" style="font-size:38px;font-weight:700">QH</text>
+<text x="140" y="202" text-anchor="middle" fill="#e6edf3" class="m" style="font-size:15px;font-weight:700;letter-spacing:2px">FULL STACK</text>
+<text x="140" y="222" text-anchor="middle" fill="#8b949e" class="m" style="font-size:12px;letter-spacing:3px">DEVELOPER</text>
+<rect x="68" y="234" width="144" height="20" rx="10" fill="#00c6ff" fill-opacity=".14" stroke="#00c6ff"/>
+<text x="140" y="248" text-anchor="middle" fill="#00c6ff" class="m" style="font-size:11px;font-weight:700;letter-spacing:2px">CLASS OF 2026</text>
+<text x="290" y="52" fill="#e6edf3" class="s" style="font-size:27px;font-weight:800;letter-spacing:.5px">MD QAMAR HUSSAIN</text>
+<text x="290" y="76" fill="#8b949e" class="m" style="font-size:12.5px;letter-spacing:1px">PLAYER ONE  ·  Andal, West Bengal, India  ·  B.Tech CSE</text>
+<rect x="290" y="92" width="560" height="1" fill="#30363d"/>
+<text x="290" y="122" fill="#e6edf3" class="m" style="font-size:13px;font-weight:700;letter-spacing:1.5px">FRONTEND</text>
+<text x="290" y="137" fill="#8b949e" class="s" style="font-size:11px">React · Tailwind · JavaScript</text>
+<rect x="520" y="110" width="330" height="14" rx="7" fill="#21262d"/>
+<rect x="520" y="110" width="0" height="14" rx="7" fill="url(#b0)"><animate attributeName="width" from="0" to="297" dur="1.4s" begin="0.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect>
+<text x="290" y="160" fill="#e6edf3" class="m" style="font-size:13px;font-weight:700;letter-spacing:1.5px">BACKEND</text>
+<text x="290" y="175" fill="#8b949e" class="s" style="font-size:11px">FastAPI · Python · SQL</text>
+<rect x="520" y="148" width="330" height="14" rx="7" fill="#21262d"/>
+<rect x="520" y="148" width="0" height="14" rx="7" fill="url(#b1)"><animate attributeName="width" from="0" to="257" dur="1.4s" begin="0.65s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect>
+<text x="290" y="198" fill="#e6edf3" class="m" style="font-size:13px;font-weight:700;letter-spacing:1.5px">AI / LLM</text>
+<text x="290" y="213" fill="#8b949e" class="s" style="font-size:11px">RAG · Ollama · LangChain</text>
+<rect x="520" y="186" width="330" height="14" rx="7" fill="#21262d"/>
+<rect x="520" y="186" width="0" height="14" rx="7" fill="url(#b2)"><animate attributeName="width" from="0" to="218" dur="1.4s" begin="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect>
+<text x="290" y="236" fill="#e6edf3" class="m" style="font-size:13px;font-weight:700;letter-spacing:1.5px">UI SENSE</text>
+<text x="290" y="251" fill="#8b949e" class="s" style="font-size:11px">layouts, motion, details</text>
+<rect x="520" y="224" width="330" height="14" rx="7" fill="#21262d"/>
+<rect x="520" y="224" width="0" height="14" rx="7" fill="url(#b3)"><animate attributeName="width" from="0" to="280" dur="1.4s" begin="1.15s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect>
+<rect x="24" y="278" width="832" height="34" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="44" y="300" class="m" style="font-size:12.5px;letter-spacing:1px"><tspan fill="#8b949e">MOTTO ▸ </tspan><tspan fill="#00c6ff" font-weight="700">Never Give Up</tspan><tspan fill="#8b949e">&#160;&#160;&#160;&#160;&#160;QUEST ▸ </tspan><tspan fill="#7ee787" font-weight="700">full stack / SWE role or internship</tspan></text>
+</svg>
