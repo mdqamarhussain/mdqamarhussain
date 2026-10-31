@@ -1,34 +1,23 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Terminal animation: whoami. Md Qamar Hussain, full stack developer, Never Give Up. Projects: docsense-pdf and rangbhoomi-review-api. Open to work." />
+<img src="./assets/hero.svg" width="100%" alt="Terminal animation: whoami. Md Qamar Hussain, full stack developer, Never Give Up. Teaching local LLMs to read PDFs. Next up, training AI agents. Open to work." />
 
 <br/>
 
 <img src="https://img.shields.io/badge/status-open_to_work-00D4AA?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/based_in-West_Bengal,_India-4266dd?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/class_of-2026-00c6ff?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
-**Hi, I'm Qamar 👋 I build clean React interfaces, FastAPI backends that quietly hold them up, and local AI that reads your PDFs.**
+**I build clean React interfaces, FastAPI backends that quietly hold them up, and local AI that reads your PDFs.**
 
-<sub>👇 This README is a game. Click things.</sub>
+> 🥇 **Winner, JIS Idea Jam 2025**: 1st place among 240+ teams, with an AI-powered surveillance system.
 
 </div>
 
 <br/>
 
-<img src="./assets/h-player.svg" width="100%" alt="Player One: character sheet" />
-
-<br/>
-
-<img src="./assets/player-card.svg" width="100%" alt="Character sheet. Md Qamar Hussain, full stack developer, class of 2026. Skills: frontend, backend, AI and LLM, UI sense. Motto: Never Give Up." />
-
-<br/><br/>
-
-<img src="./assets/h-featured.svg" width="100%" alt="Featured builds" />
-
-<br/>
+## 🚀 Featured Builds
 
 <div align="center">
 <a href="https://github.com/mdqamarhussain/docsense-pdf"><img src="./assets/card-docsense.svg" width="49%" alt="DocSense PDF: ask your PDFs anything, privately. FastAPI, Qdrant, Ollama, LangChain." /></a>
@@ -36,7 +25,7 @@
 </div>
 
 <details>
-<summary><b>🔍 Curious how DocSense thinks? (click to open the hood)</b></summary>
+<summary><b>🔍 How does DocSense work? (click to open)</b></summary>
 
 <br/>
 
@@ -58,87 +47,15 @@ Because it's FastAPI, you also get free interactive docs at `/docs` (Swagger UI)
 
 <br/>
 
-<img src="./assets/h-quests.svg" width="100%" alt="Quest log" />
-
-<br/>
-
-<details open>
-<summary><img src="./assets/quest-active.svg" width="100%" alt="Active quest: land a full stack or SWE role or internship" /></summary>
-
-<br/>
-
-I'm looking for a team that cares about both **how things look** and **how they work**. If that's you, the buttons at the bottom of this page are the fastest way to reach me.
-
-</details>
-
-<details>
-<summary><img src="./assets/quest-boss.svg" width="100%" alt="Boss defeated: JIS Idea Jam 2025, first place among 240 plus teams" /></summary>
-
-<br/>
-
-Won **1st place at JIS Idea Jam 2025**, out of 240+ teams, with an **AI-powered surveillance system**. It proved to me that a good idea plus a stubborn team goes a long way.
-
-</details>
-
-<details>
-<summary><img src="./assets/quest-sih.svg" width="100%" alt="Finalist: Smart India Hackathon" /></summary>
-
-<br/>
-
-Reached the finals of the **Smart India Hackathon**, one of the biggest student hackathons in the country.
-
-</details>
-
-<details>
-<summary><img src="./assets/quest-model.svg" width="100%" alt="Rank 7: International Model Making Competition" /></summary>
-
-<br/>
-
-Placed **7th** among 240+ teams in an **International Model Making Competition**. Pixels and physical objects both count.
-
-</details>
-
-<details>
-<summary><img src="./assets/quest-intern.svg" width="100%" alt="Completed: Web Development Intern at Scoreazy" /></summary>
-
-<br/>
-
-**Web Development Intern at Scoreazy (Aug – Sept 2025).** Built and customised responsive websites on Wix, worked with CMS collections, dynamic pages and databases, and worked directly with the founder to turn requirements into live pages.
-
-</details>
-
-<br/>
-
-<img src="./assets/h-inventory.svg" width="100%" alt="Inventory: my loadout" />
-
-<br/>
+## 🧰 My Skills
 
 <div align="center">
-<img src="./assets/stack.svg" width="100%" alt="Tech stack: React, FastAPI, Python, Tailwind, JavaScript, Java, C++, SQL, Docker, Git, Ollama, LangChain, Qdrant" />
+<img src="./assets/skills.svg" width="100%" alt="Skills. Frontend: React, HTML, CSS, Tailwind, JavaScript, Figma. Backend: FastAPI, Python, REST APIs, SQL, MySQL, SQLite. AI and LLM: Ollama, LangChain, Qdrant, FastEmbed, RAG. Tools: Git, GitHub, Docker, Postman, Java, C++." />
 </div>
 
-<details>
-<summary><b>🎒 Open the backpack</b></summary>
-
 <br/>
 
-| Slot | Items |
-|---|---|
-| 🎨 **Frontend** | React · HTML · CSS · Tailwind CSS · JavaScript · Figma |
-| ⚙️ **Backend** | FastAPI · REST APIs · Python |
-| 🗄️ **Databases** | MySQL · SQLite · SQL · Qdrant (vector) |
-| 🤖 **AI / LLM** | Ollama · LangChain · FastEmbed · PyPDF · RAG |
-| 🧰 **Tools** | Git · GitHub · Docker · Postman · VS Code |
-| 🧠 **Languages** | Python · JavaScript · Java · C++ |
-| 📚 **Core skills** | OOP · DBMS · API design · Vector search |
-
-</details>
-
-<br/>
-
-<img src="./assets/h-guestbook.svg" width="100%" alt="Guestbook: leave your mark" />
-
-<br/>
+## ✍️ Guestbook
 
 <div align="center">
 
@@ -156,57 +73,11 @@ Placed **7th** among 240+ teams in an **International Model Making Competition**
 
 <br/>
 
-<img src="./assets/h-faq.svg" width="100%" alt="FAQ: frequently asked by nobody" />
-
-<br/>
-
-<details>
-<summary><b>Why FastAPI?</b></summary>
-
-<br/>
-
-Type hints in, Swagger docs out. Hard to go back after that.
-
-</details>
-
-<details>
-<summary><b>What are you looking for?</b></summary>
-
-<br/>
-
-A **full stack / software engineer role** or a **tech internship** with people who care about both how things look and how they work.
-
-</details>
-
-<details>
-<summary><b>What's your coding philosophy?</b></summary>
-
-<br/>
-
-> *"Never give up."* — John Cena
-
-Ship it, break it, fix it, ship it better.
-
-</details>
-
-<details>
-<summary><b>🕹️ ↑ ↑ ↓ ↓ ← → ← → B A</b></summary>
-
-<br/>
-
-🎉 **Cheat code accepted!** You've unlocked: *+1 coffee for the dev and a free "hello" from me.* Email me and mention the code.
-
-</details>
-
-<br/>
-
-<img src="./assets/h-party.svg" width="100%" alt="Join my party" />
-
-<br/>
+## 🤝 Join the Party
 
 <div align="center">
 
-**Got a project, a role, or just a cool idea? Pick your message channel:**
+**Got a project, a role, or just a cool idea? Say hi:**
 
 <br/>
 
@@ -215,10 +86,6 @@ Ship it, break it, fix it, ship it better.
 <a href="https://x.com/md__qamar"><img src="https://img.shields.io/badge/𝕏_Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
-
-<br/>
-
-<img src="./assets/h-snake.svg" width="100%" alt="Contribution snake" />
 
 <br/>
 
@@ -232,8 +99,6 @@ Ship it, break it, fix it, ship it better.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mdqamarhussain&label=Players+Visited&color=4266dd&style=flat-square" />
-
-<sub>Built with too much ☕ and a little hand-written SVG. Never give up.</sub>
+<sub>My APIs come with Swagger docs. My swagger comes naturally. 😎</sub>
 
 </div>
