@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 92" width="880" height="92" role="img" aria-label="COMPLETED: Web Development Intern · Scoreazy. Aug – Sept 2025 · Wix, CMS collections, dynamic pages">
+<defs><clipPath id="c"><rect x="1" y="1" width="878" height="90" rx="14"/></clipPath></defs>
+<rect x="1" y="1" width="878" height="90" rx="14" fill="#0d1117" stroke="#58a6ff" stroke-opacity=".55"/>
+<g clip-path="url(#c)"><rect x="0" y="0" width="8" height="92" fill="#58a6ff"/><rect x="8" y="0" width="300" height="92" fill="#58a6ff" opacity=".05"/></g>
+<rect x="30" y="14" width="104" height="22" rx="11" fill="#58a6ff" fill-opacity=".16" stroke="#58a6ff"></rect>
+<text x="82" y="29" text-anchor="middle" fill="#58a6ff" style="font:800 11px 'Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;letter-spacing:1.5px">COMPLETED</text>
+<text x="30" y="62" fill="#e6edf3" style="font:800 19px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif">Web Development Intern · Scoreazy</text>
+<text x="30" y="80" fill="#8b949e" style="font:400 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif">Aug – Sept 2025 · Wix, CMS collections, dynamic pages</text>
+<text x="858" y="52" text-anchor="end" fill="#8b949e" style="font:500 12px 'Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace">click to open ▾<animate attributeName="opacity" values="1;.4;1" dur="2.4s" repeatCount="indefinite"/></text></svg>
