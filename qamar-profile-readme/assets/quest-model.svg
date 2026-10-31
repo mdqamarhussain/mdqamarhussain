@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 92" width="880" height="92" role="img" aria-label="RANK 7: International Model Making Competition. 7th place among 240+ teams">
-<defs><clipPath id="c"><rect x="1" y="1" width="878" height="90" rx="14"/></clipPath></defs>
-<rect x="1" y="1" width="878" height="90" rx="14" fill="#0d1117" stroke="#ffa657" stroke-opacity=".55"/>
-<g clip-path="url(#c)"><rect x="0" y="0" width="8" height="92" fill="#ffa657"/><rect x="8" y="0" width="300" height="92" fill="#ffa657" opacity=".05"/></g>
-<rect x="30" y="14" width="78" height="22" rx="11" fill="#ffa657" fill-opacity=".16" stroke="#ffa657"></rect>
-<text x="69" y="29" text-anchor="middle" fill="#ffa657" style="font:800 11px 'Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;letter-spacing:1.5px">RANK 7</text>
-<text x="30" y="62" fill="#e6edf3" style="font:800 19px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif">International Model Making Competition</text>
-<text x="30" y="80" fill="#8b949e" style="font:400 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif">7th place among 240+ teams</text>
-<text x="858" y="52" text-anchor="end" fill="#8b949e" style="font:500 12px 'Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace">click to open ▾<animate attributeName="opacity" values="1;.4;1" dur="2.4s" repeatCount="indefinite"/></text></svg>
