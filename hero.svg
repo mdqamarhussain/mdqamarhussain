@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 387" width="880" height="387" role="img" aria-label="Terminal animation: whoami, Md Qamar Hussain, full stack developer, Never Give Up. Teaching local LLMs to read PDFs. Next up, training AI agents. Open to work.">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4266dd"/><stop offset="1" stop-color="#00c6ff"/></linearGradient>
+<clipPath id="inner"><rect x="4" y="4" width="872" height="379" rx="12"/></clipPath>
+</defs>
+<style>text{font-family:'Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:17px}</style>
+<rect x="2" y="2" width="876" height="383" rx="14" fill="#0d1117"/>
+<path d="M2 16a14 14 0 0 1 14-14h848a14 14 0 0 1 14 14v28H2z" fill="#161b22"/>
+<circle cx="28" cy="24" r="6" fill="#ff5f56"/><circle cx="50" cy="24" r="6" fill="#ffbd2e"/><circle cx="72" cy="24" r="6" fill="#27c93f"/>
+<text x="440" y="29" text-anchor="middle" fill="#8b949e" style="font-size:13px">qamar@github: ~</text>
+<text x="36" y="90"><tspan fill="#7ee787">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+<g clip-path="url(#inner)"><rect y="70" height="29" width="860" fill="#0d1117" x="36"><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.0367;0.0532;1.0000" values="36;36;117.6;117.6"/></rect></g>
+<g><rect y="73" width="9" height="21" fill="#58a6ff" x="36" opacity="0"><animate attributeName="opacity" dur="21.81s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0367;0.0532;1.0000" values="0;1;0;0"/><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.0367;0.0532;1.0000" values="36;36;117.6;117.6"/></rect></g>
+<text x="36" y="121" fill="#79c0ff">Md Qamar Hussain · full stack developer · "Never Give Up"</text>
+<g clip-path="url(#inner)"><rect y="101" height="29" width="860" fill="#0d1117" x="36"><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.0761;0.1937;1.0000" values="36;36;617.4;617.4"/></rect></g>
+<g><rect y="104" width="9" height="21" fill="#58a6ff" x="36" opacity="0"><animate attributeName="opacity" dur="21.81s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0761;0.1937;1.0000" values="0;1;0;0"/><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.0761;0.1937;1.0000" values="36;36;617.4;617.4"/></rect></g>
+<text x="36" y="152"><tspan fill="#7ee787">$ </tspan><tspan fill="#e6edf3">cat now.txt</tspan></text>
+<g clip-path="url(#inner)"><rect y="132" height="29" width="860" fill="#0d1117" x="36"><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.2121;0.2389;1.0000" values="36;36;168.6;168.6"/></rect></g>
+<g><rect y="135" width="9" height="21" fill="#58a6ff" x="36" opacity="0"><animate attributeName="opacity" dur="21.81s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2121;0.2389;1.0000" values="0;1;0;0"/><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.2121;0.2389;1.0000" values="36;36;168.6;168.6"/></rect></g>
+<text x="36" y="183" fill="#79c0ff">→ teaching local LLMs to read your PDFs</text>
+<g clip-path="url(#inner)"><rect y="163" height="29" width="860" fill="#0d1117" x="36"><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.2618;0.3423;1.0000" values="36;36;433.8;433.8"/></rect></g>
+<g><rect y="166" width="9" height="21" fill="#58a6ff" x="36" opacity="0"><animate attributeName="opacity" dur="21.81s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2618;0.3423;1.0000" values="0;1;0;0"/><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.2618;0.3423;1.0000" values="36;36;433.8;433.8"/></rect></g>
+<text x="36" y="214" fill="#79c0ff">→ next up: training AI agents (so I can finally nap)</text>
+<g clip-path="url(#inner)"><rect y="194" height="29" width="860" fill="#0d1117" x="36"><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.3606;0.4679;1.0000" values="36;36;566.4;566.4"/></rect></g>
+<g><rect y="197" width="9" height="21" fill="#58a6ff" x="36" opacity="0"><animate attributeName="opacity" dur="21.81s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3606;0.4679;1.0000" values="0;1;0;0"/><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.3606;0.4679;1.0000" values="36;36;566.4;566.4"/></rect></g>
+<text x="36" y="245"><tspan fill="#7ee787">$ </tspan><tspan fill="#e6edf3">ls projects/</tspan></text>
+<g clip-path="url(#inner)"><rect y="225" height="29" width="860" fill="#0d1117" x="36"><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.4862;0.5151;1.0000" values="36;36;178.8;178.8"/></rect></g>
+<g><rect y="228" width="9" height="21" fill="#58a6ff" x="36" opacity="0"><animate attributeName="opacity" dur="21.81s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4862;0.5151;1.0000" values="0;1;0;0"/><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.4862;0.5151;1.0000" values="36;36;178.8;178.8"/></rect></g>
+<text x="36" y="276" fill="#d2a8ff">docsense-pdf/    rangbhoomi-review-api/</text>
+<g clip-path="url(#inner)"><rect y="256" height="29" width="860" fill="#0d1117" x="36"><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.5381;0.6185;1.0000" values="36;36;433.8;433.8"/></rect></g>
+<g><rect y="259" width="9" height="21" fill="#58a6ff" x="36" opacity="0"><animate attributeName="opacity" dur="21.81s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.5381;0.6185;1.0000" values="0;1;0;0"/><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.5381;0.6185;1.0000" values="36;36;433.8;433.8"/></rect></g>
+<text x="36" y="307"><tspan fill="#7ee787">$ </tspan><tspan fill="#e6edf3">./hire_me.sh</tspan></text>
+<g clip-path="url(#inner)"><rect y="287" height="29" width="860" fill="#0d1117" x="36"><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.6369;0.6657;1.0000" values="36;36;178.8;178.8"/></rect></g>
+<g><rect y="290" width="9" height="21" fill="#58a6ff" x="36" opacity="0"><animate attributeName="opacity" dur="21.81s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.6369;0.6657;1.0000" values="0;1;0;0"/><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.6369;0.6657;1.0000" values="36;36;178.8;178.8"/></rect></g>
+<text x="36" y="338" fill="#7ee787">✔ open to work · say hi below ↓</text>
+<g clip-path="url(#inner)"><rect y="318" height="29" width="860" fill="#0d1117" x="36"><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.6887;0.7526;1.0000" values="36;36;352.2;352.2"/></rect></g>
+<g><animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5" values="1;0"/><rect y="321" width="9" height="21" fill="#58a6ff" x="36" opacity="0"><animate attributeName="opacity" dur="21.81s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.6887;1.0000" values="0;1;1"/><animate attributeName="x" dur="21.81s" repeatCount="indefinite" keyTimes="0.0000;0.6887;0.7526;1.0000" values="36;36;352.2;352.2"/></rect></g>
+<rect x="2" y="2" width="876" height="383" rx="14" fill="none" stroke="url(#g)" stroke-width="2"/>
+</svg>
